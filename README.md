@@ -1,2 +1,2 @@
 # mytest-project
-I'm a Senior Full Stack Developer and Mobile
+I'm a Senior Full Stack Developer
